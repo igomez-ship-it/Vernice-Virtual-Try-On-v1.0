@@ -1,0 +1,7 @@
+{
+  "name": "Vernice Virtual Try-On",
+  "description": "An augmented reality application that allows users to virtually try on jewelry, such as rings and necklaces, using their device's camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
